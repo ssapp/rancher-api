@@ -2,6 +2,8 @@
 
 Rancher API is a set of PHP classes for interacting with [Rancher](http://rancher.com/rancher/).
 
+⚠️ This project is no longer maintained. ⚠️
+
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/1f7de942-8900-4f1b-8840-013d2e62b8bc/big.png)](https://insight.sensiolabs.com/projects/1f7de942-8900-4f1b-8840-013d2e62b8bc)
 
 ## Installation
